@@ -1,6 +1,4 @@
-# Job-Career-Insights
-Prepared detailed analysis and Visualization in PowerBI 
-📊 Students Job & Career Insights – Power BI Dashboard
+ 📊 Students Job & Career Insights – Power BI Dashboard
 🔍 Overview
 This dashboard provides insights into student employment trends, including performance, skills, job satisfaction, salary, and more. It's designed for use by career counselors, educators, and HR professionals.
 
